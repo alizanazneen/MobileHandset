@@ -7,7 +7,8 @@ Pre Requisit :
 
 Steps 
 ------------
-1)Clone the source code from the below repository
+1)Clone the source code from the below repository - 
+ 
 https://github.com/vaseemahmed01/Starzplay.git
 
 2) Build the project –
